@@ -71,11 +71,11 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Skating
+      - name: Skateboarding
         description: ''
         percent: 80
-        icon: person-skating
-        icon_pack: fas
+        icon: skateboard
+        icon_pack: custom
       - name: Rock Climbing
         description: ''
         percent: 100
