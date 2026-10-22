@@ -71,16 +71,16 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Skateboarding
-        description: ''
-        percent: 80
-        icon: skateboard
-        icon_pack: custom
       - name: Rock Climbing
         description: ''
         percent: 100
         icon: mountain
         icon_pack: fas
+      - name: Skateboarding
+        description: ''
+        percent: 80
+        icon: skateboarding
+        icon_pack: custom
       - name: Computer Game
         description: ''
         percent: 100
