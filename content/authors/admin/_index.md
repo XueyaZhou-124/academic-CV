@@ -22,7 +22,7 @@ role: Student of computational biology
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Peking University
-    url: https://english.cas.cn/](https://english.pku.edu.cn/
+    url: https://english.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: AI Virtual Cell (AIVC), learning representations from biological data to describe biological processes.
