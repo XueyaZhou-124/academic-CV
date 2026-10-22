@@ -21,27 +21,17 @@ role: Student of computational biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Chinese Academy of Sciences
-    url: https://english.cas.cn/
+  - name: Peking University
+    url: https://english.cas.cn/](https://english.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, bioinformatics and evolution.
+bio: AI Virtual Cell (AIVC), learning representations from biological data to describe biological processes.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
   - Computational Biology
-  - Evolution
-
-# Education to show in About widget
-education:
-  courses:
-    - course: MSc in Computational Biology
-      institution: Shanghai Insititute of Nutrition and Health, CAS
-      year: 2024
-    - course: BSc in Biology
-      institution: Xiamen university
-      year: 2020
+  - single cell foundation model
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -108,5 +98,5 @@ social:
 highlight_name: true
 ---
 
-Xueya Zhou is a student of computational biology at the SINH. Her research interests include application of AI in biology. She is looking for a chance to PhD position.
+Xueya Zhou is a PhD student in AI for biology at the Peking University. Her research interests include application of AI in biology.
 {style="text-align: justify;"}
