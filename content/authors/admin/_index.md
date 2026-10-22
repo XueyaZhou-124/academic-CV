@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 周雪娅
+title: Xueya Zhou
 
 # Name pronunciation (optional)
-name_pronunciation: Xueya Zhou
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Xueya

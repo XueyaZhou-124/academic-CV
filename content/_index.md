@@ -71,6 +71,13 @@ sections:
           description: |2-
               * Benchmarked zero-shot single-cell foundation model embeddings for reconstructing cellular dynamics with dynamic optimal transport (bioRxiv 2026).
               * Developed NICE, a two-step framework that enriches embryonic cfDNA and assesses embryo quality, with Peking University Third Hospital (*Advanced Science* 2026).
+        - title: AI for Science Intern
+          company: DP Technology
+          company_url: 'https://www.dp.tech/en'
+          location: Beijing
+          date_start: '2024-05-01'
+          date_end: ''
+          description: |2-
               * Contributed to ProteinTalks, a perturbation proteomics-based virtual cell model (*Nature* 2026).
     design:
       columns: '2'
