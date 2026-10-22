@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student of computational biology
+role: PhD Student, AI for Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,9 +29,23 @@ bio: AI Virtual Cell (AIVC), learning representations from biological data to de
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Biology
-  - single cell foundation model
+  - AI Virtual Cell (AIVC)
+  - Representation Learning
+  - Single-cell Foundation Models
+  - Cellular Dynamics
+
+# Education to show in About widget
+education:
+  courses:
+    - course: PhD, Academy for Advanced Interdisciplinary Studies
+      institution: Peking University
+      year: 2024–present
+    - course: MSc in Computational Biology
+      institution: Shanghai Institute of Nutrition and Health, CAS
+      year: 2024
+    - course: BSc in Biology
+      institution: Xiamen University
+      year: 2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -83,20 +97,23 @@ social:
     link: mailto:zhou_xueya@outlook.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/XueyaZhou-124
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=r-0WCd8AAAAJ
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E9%9B%AA%E5%A8%85-%E5%91%A8-372408295/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Xueya Zhou is a PhD student in AI for biology at the Peking University. Her research interests include application of AI in biology.
+Xueya Zhou is a PhD student at the Academy for Advanced Interdisciplinary Studies, Peking University. Her research is in AI Virtual Cell (AIVC): she uses AI to learn representations from biological data and uses those representations to describe biological processes. She is co-first author of NICE (Advanced Science, 2026), which extracts features from embryonic cell-free DNA in spent culture medium to assess embryo quality, and first author of a bioRxiv benchmark (2026) of single-cell foundation-model embeddings for reconstructing cellular dynamics.
 {style="text-align: justify;"}
