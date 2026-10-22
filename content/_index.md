@@ -62,13 +62,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD student
-          company: Peking University
-          company_url: 'https://english.pku.edu.cn/'
+        - title: PhD Researcher, AI Virtual Cell
+          company: 'Center for Machine Learning Research, Peking University (Advisor: Peijie Zhou)'
+          company_url: 'https://cliffzhou92.github.io/'
           location: Beijing
           date_start: '2024-09-01'
           date_end: ''
-          description: ''
+          description: |2-
+              * Benchmarked zero-shot single-cell foundation model embeddings for reconstructing cellular dynamics with dynamic optimal transport (bioRxiv 2026).
+              * Developed NICE, a two-step framework that enriches embryonic cfDNA and assesses embryo quality, with Peking University Third Hospital (*Advanced Science* 2026).
+              * Contributed to ProteinTalks, a perturbation proteomics-based virtual cell model (*Nature* 2026).
     design:
       columns: '2'
   - block: collection
