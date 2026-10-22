@@ -54,18 +54,18 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
       - name: R
         description: ''
-        percent: 100
-        icon: R
-        icon_pack: fas
+        percent: 80
+        icon: r-project
+        icon_pack: fab
       - name: Linux
         description: ''
-        percent: 40
-        icon: Linux
+        percent: 80
+        icon: linux
         icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
@@ -76,16 +76,16 @@ skills:
         percent: 80
         icon: person-skating
         icon_pack: fas
-      - name: Painting
+      - name: Rock Climbing
         description: ''
-        percent: 60
-        icon: palette
+        percent: 100
+        icon: mountain
         icon_pack: fas
       - name: Computer Game
         description: ''
         percent: 100
-        icon: gamepad-modern
-        icon_pack: far
+        icon: gamepad
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -112,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Xueya Zhou is a PhD student at the Academy for Advanced Interdisciplinary Studies, Peking University. Her research is in AI Virtual Cell (AIVC): she uses AI to learn representations from biological data and uses those representations to describe biological processes. She is co-first author of NICE (Advanced Science, 2026), which extracts features from embryonic cell-free DNA in spent culture medium to assess embryo quality, and first author of a bioRxiv benchmark (2026) of single-cell foundation-model embeddings for reconstructing cellular dynamics.
+Xueya Zhou is a PhD student at the Academy for Advanced Interdisciplinary Studies, Peking University. Her research is in AI Virtual Cell (AIVC): she uses AI to learn representations from biological data and uses those representations to describe biological processes.
 {style="text-align: justify;"}
