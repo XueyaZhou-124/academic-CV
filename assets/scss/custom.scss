@@ -1,0 +1,4 @@
+// Custom skill icons are <img> SVGs, so they can't inherit the text color like Font Awesome icons.
+.dark .skills-icon img.svg-icon {
+  filter: invert(1);
+}
