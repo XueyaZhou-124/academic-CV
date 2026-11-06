@@ -42,7 +42,7 @@ education:
       year: 2024–present
     - course: MSc in Computational Biology
       institution: Shanghai Institute of Nutrition and Health, CAS
-      year: 2024
+      year: 2023
     - course: BSc in Biology
       institution: Xiamen University
       year: 2020
